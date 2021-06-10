@@ -2,4 +2,3 @@ streamlit==0.82.0
 numpy_stl==2.16.0
 numpy==1.19.5
 matplotlib==3.4.2
-stl==0.0.3
